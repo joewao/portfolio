@@ -1,2 +1,1 @@
-# portfolio
-Portfolio aula ALURA: getting to know ZB1.
+# ios-construindo-seu-primeiro-aplicativo
